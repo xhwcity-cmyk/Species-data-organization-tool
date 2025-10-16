@@ -1,0 +1,3 @@
+([('SpeciesProcessor',
+   '/Users/runk/PyCharmMiscProject/dist/SpeciesProcessor',
+   'EXECUTABLE')],)
